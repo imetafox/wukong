@@ -1,0 +1,27 @@
+{
+  "name": "wukong",
+  "version": "1.0.0",
+  "description": "mock data (72 methods of transformation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imetafox/wukong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imetafox/wukong/issues"
+  },
+  "homepage": "https://github.com/imetafox/wukong#readme",
+  "engines": {
+      "node": ">=10",
+      "pnpm": ">=3"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
